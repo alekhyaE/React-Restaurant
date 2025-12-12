@@ -1,0 +1,55 @@
+{
+    "info": {
+        "id": "270",
+        "name": "Donne Biryani House",
+        "city": "1",
+        "slugs": {
+            "restaurant": "donne-biryani-house-7th-block-koramangala"
+        },
+        "cloudinaryImageId": "uzmidprvsi3sbhonaimm",
+        "locality": "7th Block",
+        "areaName": "Koramangala",
+        "costForTwo": "₹130 for two",
+        "cuisines": [
+            "Biryani"
+        ],
+        "avgRating": 4.2,
+        "feeDetails": {
+            "restaurantId": "270",
+            "title": "Delivery Charge",
+            "amount": "0"
+        },
+        "totalRatingsString": "10K+",
+        "promoted": true,
+        "adTrackingId": "cid=10534489~p=1~eid=0000018c-f241-e2c4-04f9-1f8100020141~srvts=1704871453380~56861",
+        "sla": {
+            "deliveryTime": 21,
+            "minDeliveryTime": 21,
+            "maxDeliveryTime": 21,
+            "serviceability": "SERVICEABLE",
+            "slaString": "21 MINS",
+            "lastMileTravelString": "2.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-01-10 16:00:00",
+            "opened": true
+        },
+        "badges": {
+            "textExtendedBadges": [
+                {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                }
+            ]
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹100 OFF",
+            "subHeader": "ABOVE ₹599",
+            "discountTag": "FLAT DEAL"
+        }
+    },
+    "analytics": {},
+    "cta": {}
+}
